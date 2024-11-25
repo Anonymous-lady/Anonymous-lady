@@ -1,5 +1,5 @@
 ## Hi there 👋
-ent.com/Anonymous-lady/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <!--
 **Anonymous-lady/Anonymous-lady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
