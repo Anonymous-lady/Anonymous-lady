@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Esther Akinpelu Ololade. I take great pleasure in pursuing my goals, regardless of the difficulties that may arise. Currently, I am committing myself to my coding journey to make a substantial impact in the technological field.</p>
+<p align="left">My name is Esther Akinpelu Ololade. I take great pleasure in pursuing my goals, regardless of the difficulties that may arise. Currently, I am committing myself to my coding journey to make a substantial impact in the technological field.  I enjoy working with databases and solving algorithmic problems (participated in the 2024 ICPC competition --- https://icpc.global/ICPCID/QA08V5C6MD6Z</p>
 
 ###
 
@@ -50,16 +50,13 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anonymous-lady&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous-lady&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Anonymous-lady&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anonymous-lady/Anonymous-lady/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anonymous-lady/Anonymous-lady/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anonymous-lady/Anonymous-lady/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Anonymous-lady/Anonymous-lady/output/snake.svg" alt="Snake animation" />
 
 ###
-  
