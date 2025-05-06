@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on writing efficient code using DSA's.<br>👯 I’m looking to collaborate to create amazing projects.<br>🤝 I’m looking for help with internships.<br>🌱 I’m currently learning Software Development and Data Science.<br>⚡ Fun fact : I participated in the 2024 ICPC competition --- icpc.global/ICPCID/QA08V5C6MD6Z
+🔭 I’m currently working on writing efficient code using DSA's.<br>👯 I’m looking to collaborate to create amazing projects.<br>🤝 I’m looking for help with internships.<br>🌱 I’m currently learning Software Development and Data Science.<br>⚡ Fun fact : I participated in the 2024 ICPC competition --- https://icpc.global/ICPCID/QA08V5C6MD6Z
 
 
 ## 🌐 Socials:
