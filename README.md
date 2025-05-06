@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Esther Akinpelu Ololade. I take great pleasure in pursuing my goals, regardless of the difficulties that may arise. Currently, I am committing myself to my coding journey to make a substantial impact in the technological field.  I enjoy working with databases and solving algorithmic problems (participated in the 2024 ICPC competition --- https://icpc.global/ICPCID/QA08V5C6MD6Z</p>
+<p align="left">My name is Esther Akinpelu Ololade. I take great pleasure in pursuing my goals, regardless of the difficulties that may arise. Currently, I am committing myself to my coding journey to make a substantial impact in the technological field.  I enjoy working with databases and solving algorithmic problems (participated in the 2024 ICPC competition --- https://icpc.global/ICPCID/QA08V5C6MD6Z)</p>
 
 ###
 
