@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="102" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 # 💫 About Me:
